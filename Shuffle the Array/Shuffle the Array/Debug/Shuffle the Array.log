@@ -1,0 +1,4 @@
+﻿  Shuffle the Array.cpp
+F:\college\neetcode\easy\Shuffle the Array\Shuffle the Array\Shuffle the Array.cpp(8,20): warning C4018: '<=': signed/unsigned mismatch
+F:\college\neetcode\easy\Shuffle the Array\Shuffle the Array\Shuffle the Array.cpp(14,21): warning C4018: '<=': signed/unsigned mismatch
+  Shuffle the Array.vcxproj -> F:\college\neetcode\easy\Shuffle the Array\Debug\Shuffle the Array.exe
